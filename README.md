@@ -48,6 +48,11 @@ Gitee地址：https://gitee.com/varmixer/gacha
     ```
 2. 更新卡池后原卡池会被备份至`backup.json`, 如出现错误可由此恢复. 
    
+3.安装后如果出现找不到config.json，请将update.py中的路径改为绝对路径，如：
+    ```
+    /home/ubuntu/HoshinoBot/hoshino/modules/priconne/gacha/config.json
+    ```
+    
 ## 更新日志
 
 ### 2020/8/18
